@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="256px" src="https://raw.githubusercontent.com/NicoBenialgo/S01-Lenguajes1/refs/heads/main/header-S01ejercicios.png" alt="Guía de ejercicios - Semana 1 // Lenguajes Informáticos 1 (UNAHUR)" />
+    <img height="256px" src="https://raw.githubusercontent.com/NicoBenialgo/Ejercicios-Lenguajes1-UNAHUR/refs/heads/main/header-S01ejercicios.png" alt="Guía de ejercicios - Semana 1 // Lenguajes Informáticos 1 (UNAHUR)" />
 </p>
 
 <h1 align="center">Resolución de ejercicios opcionales</h1>
